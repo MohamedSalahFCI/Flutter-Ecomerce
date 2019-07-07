@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "874610212770",
+    "firebase_url": "https://ecom-e26aa.firebaseio.com",
+    "project_id": "ecom-e26aa",
+    "storage_bucket": "ecom-e26aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874610212770:android:b5399f4005f377dd",
+        "android_client_info": {
+          "package_name": "com.example.flutterecomrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874610212770-0i0j9g46cs2b1e3cufj7ur91on800ah4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMFosS2CbbohwbKnRXIH46_jW_lDnVss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
